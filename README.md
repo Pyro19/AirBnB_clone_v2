@@ -142,5 +142,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
  # Contibutor
- * Ashapolu Peter
+ * Ashaolu Peter
  * Muluken Kebede
